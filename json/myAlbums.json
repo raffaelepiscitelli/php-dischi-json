@@ -2,31 +2,37 @@
     {
         "albumName": "Opus Eponymous",
         "bandName": "Ghost",
-        "released": 2010
+        "released": 2010,
+        "cover": "imgs/Opus_Eponymous.jpg"
     },
     {
         "albumName": "The Number of the Beast",
         "bandName": "Iron Miaden",
-        "released": 1982
+        "released": 1982,
+        "cover": "imgs/The_Number_of_the_Beast.jpg"
     },
     {
         "albumName": "Holy Diver",
         "bandName": "Dio",
-        "released": 1983
+        "released": 1983,
+        "cover": "imgs/Holy_Diver.jpg"
     },
     {
         "albumName": "1984",
         "bandName": "Van Halen",
-        "released": 1984
+        "released": 1984,
+        "cover": "imgs/1984.jpg"
     },
     {
         "albumName": "Americana",
         "bandName": "The Offspring",
-        "released": 1998
+        "released": 1998,
+        "cover": "imgs/Americana.jpg"
     },
     {
         "albumName": "FSK Satellite",
         "bandName": "FSK Trapshit",
-        "released": 2019
+        "released": 2019,
+        "cover": "imgs/FSK_Trapshit.jpg"
     }
 ]
