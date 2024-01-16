@@ -1,0 +1,32 @@
+[
+    {
+        "albumName": "Opus Eponymous",
+        "bandName": "Ghost",
+        "released": 2010
+    },
+    {
+        "albumName": "The Number of the Beast",
+        "bandName": "Iron Miaden",
+        "released": 1982
+    },
+    {
+        "albumName": "Holy Diver",
+        "bandName": "Dio",
+        "released": 1983
+    },
+    {
+        "albumName": "1984",
+        "bandName": "Van Halen",
+        "released": 1984
+    },
+    {
+        "albumName": "Americana",
+        "bandName": "The Offspring",
+        "released": 1998
+    },
+    {
+        "albumName": "FSK Satellite",
+        "bandName": "FSK Trapshit",
+        "released": 2019
+    }
+]
